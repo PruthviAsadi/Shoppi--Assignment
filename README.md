@@ -6,10 +6,9 @@
 
 ### **Steps**
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git](https://github.com/PruthviAsadi/Shoppi--Assignment)
-   git clone 
-   cd <your-repo-name>
+   
+   git clone https://github.com/PruthviAsadi/Shoppi--Assignment.gi
+   cd Shoppi--Assignment
 
     Install dependencies:
 
