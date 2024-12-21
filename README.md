@@ -7,7 +7,8 @@
 ### **Steps**
 1. Clone the repository:
    
-   git clone https://github.com/PruthviAsadi/Shoppi--Assignment.gi
+   git clone https://github.com/PruthviAsadi/Shoppi--Assignment.git
+   
    cd Shoppi--Assignment
 
     Install dependencies:
